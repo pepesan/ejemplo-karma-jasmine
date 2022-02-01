@@ -1,0 +1,16 @@
+{
+  "name": "ejemplo-karma-jasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "David Vaquero <pepesan@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "jasmine": "^4.0.2",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1"
+  }
+}
